@@ -1,0 +1,16 @@
+{
+    "name": "Fuxi.DanceGameKit.Editor",
+    "references": [
+        "GUID:f06555f75b070af458a003d92f9efb00",
+        "GUID:f2b5d45d7ce63644299e93f763a04a75"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

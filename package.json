@@ -1,0 +1,15 @@
+{
+  "author": "Song Zheng",
+  "description": "A Fast Dance Game Kit.",
+  "displayName": "Dance Game Kit",
+  "license": "MIT",
+  "name": "com.netease.fuxi.dancegamekit",
+  "unity": "2019.2",
+  "unityRelease": "0f1",
+  "version": "0.0.1",
+  "type": "tool",
+  "dependencies": {
+    "com.unity.addressables": "1.1.10",
+"com.unity.timeline": "1.2.14"
+  }
+}
